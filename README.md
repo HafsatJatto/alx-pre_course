@@ -1,2 +1,2 @@
 My first readme
-tech sis
+a successful tech sis
